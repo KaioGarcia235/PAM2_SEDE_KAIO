@@ -1,1 +1,2 @@
 # ReactNativePaper
+npm install necessário
